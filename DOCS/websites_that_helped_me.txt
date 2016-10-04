@@ -4,5 +4,5 @@ http://stackoverflow.com/questions/12519235/modifying-camera-output-using-surfac
 
 https://www.virag.si/2014/03/playing-video-with-opengl-on-android/
 
-This question is what fucking made it all work:
+This question is what made it all work:
 http://stackoverflow.com/questions/18573638/android-opengles-1-x-camerapreview-to-surfacetexture
